@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "fastxp",
+  "version": "1.0.0",
+  "name": "Fast XP",
+  "description": "A lightweight, client-side mod for Minecraft that lets you rapidly throw experience bottles by holding right-click.",
+  "authors": [
+    "FlaxyPasha"
+  ],
+  "contact": {
+    "sources": "https://github.com/arasscarpe/FastXP"
+  },
+  "license": "MIT",
+  "icon": "assets/fastxp/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "fastxp.FastXPClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
