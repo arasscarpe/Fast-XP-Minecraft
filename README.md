@@ -1,9 +1,1 @@
-# Example Mod
-
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Note: This mod was created primarily for educational purposes and for fun. I do not use this mod for competitive play myself; my main goal is to learn Minecraft modding, explore the Fabric API, and practice Java 21 development. I’ve shared the source code openly so that other aspiring developers can learn from it as well!
